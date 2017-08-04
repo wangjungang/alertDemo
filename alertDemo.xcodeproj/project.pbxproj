@@ -7,6 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		531F7F9D1F34368C006C92B5 /* copyUrl@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 531F7F881F34368C006C92B5 /* copyUrl@2x.png */; };
+		531F7F9E1F34368C006C92B5 /* copyUrl@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 531F7F891F34368C006C92B5 /* copyUrl@3x.png */; };
+		531F7F9F1F34368C006C92B5 /* sinaweibo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 531F7F8A1F34368C006C92B5 /* sinaweibo@2x.png */; };
+		531F7FA01F34368C006C92B5 /* sinaweibo@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 531F7F8B1F34368C006C92B5 /* sinaweibo@3x.png */; };
+		531F7FA11F34368C006C92B5 /* tcentkongjian@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 531F7F8C1F34368C006C92B5 /* tcentkongjian@2x.png */; };
+		531F7FA21F34368C006C92B5 /* tcentkongjian@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 531F7F8D1F34368C006C92B5 /* tcentkongjian@3x.png */; };
+		531F7FA31F34368C006C92B5 /* tcentQQ@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 531F7F8E1F34368C006C92B5 /* tcentQQ@2x.png */; };
+		531F7FA41F34368C006C92B5 /* tcentQQ@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 531F7F8F1F34368C006C92B5 /* tcentQQ@3x.png */; };
+		531F7FA51F34368C006C92B5 /* tcentWeibo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 531F7F901F34368C006C92B5 /* tcentWeibo@2x.png */; };
+		531F7FA61F34368C006C92B5 /* tcentWeibo@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 531F7F911F34368C006C92B5 /* tcentWeibo@3x.png */; };
+		531F7FA71F34368C006C92B5 /* wechat@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 531F7F921F34368C006C92B5 /* wechat@2x.png */; };
+		531F7FA81F34368C006C92B5 /* wechat@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 531F7F931F34368C006C92B5 /* wechat@3x.png */; };
+		531F7FA91F34368C006C92B5 /* wechatquan@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 531F7F941F34368C006C92B5 /* wechatquan@2x.png */; };
+		531F7FAA1F34368C006C92B5 /* wechatquan@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 531F7F951F34368C006C92B5 /* wechatquan@3x.png */; };
+		531F7FAB1F34368C006C92B5 /* ActionButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 531F7F981F34368C006C92B5 /* ActionButton.m */; };
+		531F7FAC1F34368C006C92B5 /* ActionSheetView.m in Sources */ = {isa = PBXBuildFile; fileRef = 531F7F9A1F34368C006C92B5 /* ActionSheetView.m */; };
+		531F7FAD1F34368C006C92B5 /* VerButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 531F7F9C1F34368C006C92B5 /* VerButton.m */; };
 		539B2FFB1F341EDB0073635B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 539B2FFA1F341EDB0073635B /* main.m */; };
 		539B2FFE1F341EDB0073635B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 539B2FFD1F341EDB0073635B /* AppDelegate.m */; };
 		539B30011F341EDB0073635B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 539B30001F341EDB0073635B /* ViewController.m */; };
@@ -16,6 +33,26 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		531F7F881F34368C006C92B5 /* copyUrl@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "copyUrl@2x.png"; sourceTree = "<group>"; };
+		531F7F891F34368C006C92B5 /* copyUrl@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "copyUrl@3x.png"; sourceTree = "<group>"; };
+		531F7F8A1F34368C006C92B5 /* sinaweibo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sinaweibo@2x.png"; sourceTree = "<group>"; };
+		531F7F8B1F34368C006C92B5 /* sinaweibo@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sinaweibo@3x.png"; sourceTree = "<group>"; };
+		531F7F8C1F34368C006C92B5 /* tcentkongjian@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tcentkongjian@2x.png"; sourceTree = "<group>"; };
+		531F7F8D1F34368C006C92B5 /* tcentkongjian@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tcentkongjian@3x.png"; sourceTree = "<group>"; };
+		531F7F8E1F34368C006C92B5 /* tcentQQ@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tcentQQ@2x.png"; sourceTree = "<group>"; };
+		531F7F8F1F34368C006C92B5 /* tcentQQ@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tcentQQ@3x.png"; sourceTree = "<group>"; };
+		531F7F901F34368C006C92B5 /* tcentWeibo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tcentWeibo@2x.png"; sourceTree = "<group>"; };
+		531F7F911F34368C006C92B5 /* tcentWeibo@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tcentWeibo@3x.png"; sourceTree = "<group>"; };
+		531F7F921F34368C006C92B5 /* wechat@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wechat@2x.png"; sourceTree = "<group>"; };
+		531F7F931F34368C006C92B5 /* wechat@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wechat@3x.png"; sourceTree = "<group>"; };
+		531F7F941F34368C006C92B5 /* wechatquan@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wechatquan@2x.png"; sourceTree = "<group>"; };
+		531F7F951F34368C006C92B5 /* wechatquan@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wechatquan@3x.png"; sourceTree = "<group>"; };
+		531F7F971F34368C006C92B5 /* ActionButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ActionButton.h; sourceTree = "<group>"; };
+		531F7F981F34368C006C92B5 /* ActionButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ActionButton.m; sourceTree = "<group>"; };
+		531F7F991F34368C006C92B5 /* ActionSheetView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ActionSheetView.h; sourceTree = "<group>"; };
+		531F7F9A1F34368C006C92B5 /* ActionSheetView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ActionSheetView.m; sourceTree = "<group>"; };
+		531F7F9B1F34368C006C92B5 /* VerButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VerButton.h; sourceTree = "<group>"; };
+		531F7F9C1F34368C006C92B5 /* VerButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VerButton.m; sourceTree = "<group>"; };
 		539B2FF61F341EDB0073635B /* alertDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = alertDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		539B2FFA1F341EDB0073635B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		539B2FFC1F341EDB0073635B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -39,6 +76,40 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		531F7F871F34368C006C92B5 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				531F7F881F34368C006C92B5 /* copyUrl@2x.png */,
+				531F7F891F34368C006C92B5 /* copyUrl@3x.png */,
+				531F7F8A1F34368C006C92B5 /* sinaweibo@2x.png */,
+				531F7F8B1F34368C006C92B5 /* sinaweibo@3x.png */,
+				531F7F8C1F34368C006C92B5 /* tcentkongjian@2x.png */,
+				531F7F8D1F34368C006C92B5 /* tcentkongjian@3x.png */,
+				531F7F8E1F34368C006C92B5 /* tcentQQ@2x.png */,
+				531F7F8F1F34368C006C92B5 /* tcentQQ@3x.png */,
+				531F7F901F34368C006C92B5 /* tcentWeibo@2x.png */,
+				531F7F911F34368C006C92B5 /* tcentWeibo@3x.png */,
+				531F7F921F34368C006C92B5 /* wechat@2x.png */,
+				531F7F931F34368C006C92B5 /* wechat@3x.png */,
+				531F7F941F34368C006C92B5 /* wechatquan@2x.png */,
+				531F7F951F34368C006C92B5 /* wechatquan@3x.png */,
+			);
+			path = image;
+			sourceTree = "<group>";
+		};
+		531F7F961F34368C006C92B5 /* ZPActionsheet */ = {
+			isa = PBXGroup;
+			children = (
+				531F7F971F34368C006C92B5 /* ActionButton.h */,
+				531F7F981F34368C006C92B5 /* ActionButton.m */,
+				531F7F991F34368C006C92B5 /* ActionSheetView.h */,
+				531F7F9A1F34368C006C92B5 /* ActionSheetView.m */,
+				531F7F9B1F34368C006C92B5 /* VerButton.h */,
+				531F7F9C1F34368C006C92B5 /* VerButton.m */,
+			);
+			path = ZPActionsheet;
+			sourceTree = "<group>";
+		};
 		539B2FED1F341EDB0073635B = {
 			isa = PBXGroup;
 			children = (
@@ -58,6 +129,8 @@
 		539B2FF81F341EDB0073635B /* alertDemo */ = {
 			isa = PBXGroup;
 			children = (
+				531F7F871F34368C006C92B5 /* image */,
+				531F7F961F34368C006C92B5 /* ZPActionsheet */,
 				539B2FFC1F341EDB0073635B /* AppDelegate.h */,
 				539B2FFD1F341EDB0073635B /* AppDelegate.m */,
 				539B2FFF1F341EDB0073635B /* ViewController.h */,
@@ -138,9 +211,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				531F7FA11F34368C006C92B5 /* tcentkongjian@2x.png in Resources */,
+				531F7FA41F34368C006C92B5 /* tcentQQ@3x.png in Resources */,
+				531F7FA71F34368C006C92B5 /* wechat@2x.png in Resources */,
 				539B30091F341EDB0073635B /* LaunchScreen.storyboard in Resources */,
+				531F7F9E1F34368C006C92B5 /* copyUrl@3x.png in Resources */,
+				531F7FA61F34368C006C92B5 /* tcentWeibo@3x.png in Resources */,
+				531F7FA31F34368C006C92B5 /* tcentQQ@2x.png in Resources */,
+				531F7F9D1F34368C006C92B5 /* copyUrl@2x.png in Resources */,
 				539B30061F341EDB0073635B /* Assets.xcassets in Resources */,
+				531F7FA81F34368C006C92B5 /* wechat@3x.png in Resources */,
+				531F7FA21F34368C006C92B5 /* tcentkongjian@3x.png in Resources */,
+				531F7FA01F34368C006C92B5 /* sinaweibo@3x.png in Resources */,
+				531F7F9F1F34368C006C92B5 /* sinaweibo@2x.png in Resources */,
+				531F7FA51F34368C006C92B5 /* tcentWeibo@2x.png in Resources */,
+				531F7FAA1F34368C006C92B5 /* wechatquan@3x.png in Resources */,
 				539B30041F341EDB0073635B /* Main.storyboard in Resources */,
+				531F7FA91F34368C006C92B5 /* wechatquan@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -153,7 +240,10 @@
 			files = (
 				539B30011F341EDB0073635B /* ViewController.m in Sources */,
 				539B2FFE1F341EDB0073635B /* AppDelegate.m in Sources */,
+				531F7FAC1F34368C006C92B5 /* ActionSheetView.m in Sources */,
 				539B2FFB1F341EDB0073635B /* main.m in Sources */,
+				531F7FAB1F34368C006C92B5 /* ActionButton.m in Sources */,
+				531F7FAD1F34368C006C92B5 /* VerButton.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -314,6 +404,7 @@
 				539B300F1F341EDB0073635B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
